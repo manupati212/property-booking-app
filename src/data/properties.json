@@ -1,0 +1,43 @@
+[
+    {
+      "id": 1,
+      "image": "https://via.placeholder.com/300",
+      "title": "Modern Apartment in City Center",
+      "description": "A beautiful modern apartment located in the heart of the city.",
+      "price": 120,
+      "location": "City Center",
+      "bedrooms": 2,
+      "amenities": ["wifi", "parking"]
+    },
+    {
+      "id": 2,
+      "image": "https://via.placeholder.com/300",
+      "title": "Cozy Cottage by the Lake",
+      "description": "A cozy cottage with stunning lake views.",
+      "price": 150,
+      "location": "Lakeside",
+      "bedrooms": 3,
+      "amenities": ["wifi", "pool"]
+    },
+    {
+      "id": 3,
+      "image": "https://via.placeholder.com/300",
+      "title": "Luxury Villa with Private Pool",
+      "description": "A luxurious villa with a private pool and garden.",
+      "price": 300,
+      "location": "Suburbs",
+      "bedrooms": 5,
+      "amenities": ["wifi", "parking", "pool"]
+    },
+    {
+      "id": 4,
+      "image": "https://via.placeholder.com/300",
+      "title": "Charming Bungalow Near Beach",
+      "description": "A charming bungalow located just minutes from the beach.",
+      "price": 200,
+      "location": "Beachside",
+      "bedrooms": 4,
+      "amenities": ["wifi", "parking", "beach access"]
+    }
+  ]
+  
